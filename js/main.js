@@ -1,4 +1,4 @@
 
 $('button').on( "click", function() {
-  $(".everything").css("color", "red");
+  $("body").css('background', "red");
 });
